@@ -22,6 +22,11 @@ Bu Android uygulaması Java kullanılarak oluşturulmuştur. Türk lirası karş
 - View Binding
 - RecyclerView
 
+## Test Edilen Sürümler
+- Android 8.0
+- Android 13.0
+- Android 14.0
+
 ## Nasıl Kullanılır?
 
 1. Uygulamayı İndirin ve Kurun: Uygulamayı yüklemek için kaynak kodları derleyebilirsiniz veya doğrudan "ParaGöz.apk" dosyası ile indirip, kurabilirsiniz.
